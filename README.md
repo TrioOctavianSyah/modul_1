@@ -17,6 +17,6 @@ samples, guidance on mobile development, and a full API reference.
 
 
 
-gambar modul dan latihan
+
 ![m1](https://user-images.githubusercontent.com/67048687/157674656-a5293211-822e-4712-b433-615c46a098af.PNG)
 ![m1_2](https://user-images.githubusercontent.com/67048687/157674674-e14a4a67-2aed-4e67-8867-c04a4bd7c483.PNG)
